@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/auth/register
+content-type: application/json
+
+{
+    "username" : "your_username",
+    "password" : "your_password"
+}

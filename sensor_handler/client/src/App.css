@@ -1,0 +1,171 @@
+.header_container {
+    padding: 30px;
+    background-color: #cdc9c9;
+}
+
+.switch_container {
+    display: flex;
+    margin: 50px;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: #cdc9c9;
+}
+
+.light_switch_container {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    width: 50%;
+    border: 1px solid black;
+    background-color: #fffafa;
+}
+
+.status_switch_container {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    width: 50%;
+    border: 1px solid black;
+    background-color: #fffafa;
+}
+
+.light_switch_vars {
+    display: inline-block;
+    width: 50%;
+    background-color: #fffafa;
+}
+
+.status_switch_vars {
+    display: inline-block;
+    width: 50%;
+    background-color: #fffafa;
+}
+
+.light_switch_button {
+    margin-top:10px;
+    background-color: #fffafa;
+}
+
+.status_switch_button {
+    margin-top:10px;
+    background-color: #fffafa;
+}
+
+.bridge_button_container {
+    margin: 50px;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: #fffafa;
+}
+
+.bridge_buttons {
+    display: flex;
+    background-color: #fffafa;
+}
+
+.bridge_button {
+    background-color: rgb(255, 255, 255);
+    border: 2px;
+    color: black;
+    font-size: 20px;
+    height: 50px;
+    width: 300px;
+}
+
+.content {
+    text-align: center;
+    background-color: #8b8989;
+    
+}
+
+.bsl_container {
+    display: flex;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: #cdc9c9;
+}
+
+.bridge_container {
+    width: 33%;
+    margin: 10px;
+    text-align: left;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: #fffafa;
+}
+
+.sensor_container {
+    width: 33%;
+    margin: 10px;
+    text-align: left;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: #fffafa;
+}
+
+.light_container {
+    width: 33%;
+    margin: 10px;
+    text-align: left;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: #fffafa;
+}
+
+
+.list_item {
+    border: 1px solid black;
+    list-style-type: none;
+    background-color: #fffafa;
+}
+
+
+.list_item_div {
+    display: flex;
+    background-color: #fffafa;
+}
+
+
+.list_item_data {
+    width: 80%;
+    background-color: #fffafa;
+}
+
+.list_item_buttons {
+    width: 20%;
+    background-color: #fffafa;
+}
+
+.list_item_div2 {
+    text-align: left;
+    background-color: #fffafa;
+}
+
+.list_item_data2 {
+    width: 80%;
+    background-color: #fffafa;
+}
+
+.list_item_buttons2 {
+    text-align: right;
+    background-color: #fffafa;
+}
+
+.bridge_buttons {
+    display: flex;
+    background-color: #fffafa;
+}
+
+.input_div {
+    display: flex;
+}
+
+.room_container {
+    margin: 50px;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: #cdc9c9;
+    margin-bottom: 20px;
+}

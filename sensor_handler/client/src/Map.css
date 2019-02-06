@@ -1,0 +1,48 @@
+.content {
+    background-color: #8b8989;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.header_container {
+    padding: 30px;
+    background-color: #cdc9c9;
+}
+
+.button_div {
+    margin-top: 20px;
+    text-align: center;
+    margin: 50px;
+    padding: 20px;
+    background-color: #cdc9c9;
+    border: 1px solid black;
+}
+
+.contentData {
+    text-align: center;
+    background-color: #8b8989;
+}
+
+.reservations {
+    margin: 20px;
+    padding: 20px;
+    width: 50%;
+    text-align: center;
+    display: inline-block;
+    background-color: #cdc9c9;
+    border: 1px solid black;
+}
+
+.status {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px;
+    background-color: #fffafa;
+}
+
+.name_info {
+    display: inline-block; 
+    width: 100%;
+    background-color: #fffafa;
+}
