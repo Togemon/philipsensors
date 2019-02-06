@@ -10,18 +10,18 @@ The system also includes a bulb implementation, where a bulb with the same name 
 
 TODO:
 
-** Setting up the Philips hardware (i.e. creating usernames for the bridges): 
-** Follow the steps at: https://developers.meethue.com/develop/get-started-2/ (Requires creating an account)
+Setting up the Philips hardware (i.e. creating usernames for the bridges): 
+Follow the steps at: https://developers.meethue.com/develop/get-started-2/ (Requires creating an account)
 
-** /philipsensors/sensor_handler/client/src/App.js and /philipsensors/sensor_handler/backend/server.js
-** should be configured to include the correct "<ID> : <USERNAME>" in the usernames json. 
-** All the HTTP requests require the username as part of the URL. Future work: This could be implemented in a better way.
+Configure files: /philipsensors/sensor_handler/client/src/App.js and /philipsensors/sensor_handler/backend/server.js
+Should be configured to include the correct "<ID> : <USERNAME>" in the usernames json. 
+All the HTTP requests require the username as part of the URL. Future work: This could be implemented in a better way.
 
-** /philipsensors/data_handler/telegraf/telegraf.cfg 
-** should be configured to include the correct URLs for each sensor.
+Configure telegraf /philipsensors/data_handler/telegraf/telegraf.cfg 
+should be configured to include the correct URLs for each sensor.
 
-** Create an admin user for the control panel. An example HTTP requests for the authorization can be found in:
-** /philipsensors/requests_and_queries
+Create an admin user for the control panel. An example HTTP requests for the authorization can be found in:
+/philipsensors/requests_and_queries
 
 
 
